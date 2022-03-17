@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: https://www.intelliflo.com/sitemap.xml
+Sitemap: https://www.intelliflo.com/au/sitemap.xml
+Sitemap: https://www.intelliflo.com/uk/sitemap.xml
+Sitemap: https://www.intelliflo.com/us/sitemap.xml

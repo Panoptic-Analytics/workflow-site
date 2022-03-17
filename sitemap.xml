@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+      <loc>https://www.intelliflo.com/uk/sitemap.xml</loc>
+      <lastmod>2021-03-16</lastmod>
+    </sitemap>
+    <sitemap>
+      <loc>https://www.intelliflo.com/au/sitemap.xml</loc>
+      <lastmod>2021-03-16</lastmod>
+    </sitemap>
+    <sitemap>
+      <loc>https://www.intelliflo.com/us/sitemap.xml</loc>
+      <lastmod>2021-03-16</lastmod>
+    </sitemap>
+    <sitemap>
+      <loc>https://www.intelliflo.com/articles/sitemap.xml</loc>
+      <lastmod>2021-05-12</lastmod>
+    </sitemap>
+  </sitemapindex>
